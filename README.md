@@ -1,6 +1,6 @@
-### Hi world 👋
+### Hello world 👋
 
-🔭 I’m currently working on Java 8 and ReactJS.
+🔭 I’m currently working on Java 8, ReactJS and NodeJS.
 🌱 I’m currently learning to make serverless applications using AWS amplify (Fullstack framework with ReactJS bundled with Amazon serverless technologies)
 
 <!--
