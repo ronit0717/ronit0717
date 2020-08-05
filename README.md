@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi world 👋
+
+🔭 I’m currently working on Java 8 and ReactJS.
+🌱 I’m currently learning to make serverless applications using AWS amplify (Fullstack framework with ReactJS bundled with Amazon serverless technologies)
 
 <!--
 **ronit0717/ronit0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
