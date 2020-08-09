@@ -1,5 +1,7 @@
 ### Hello world 👋
 
+I am a full stack web developer from India.
+
 🔭 I’m currently working on Java 8, ReactJS, NodeJS and AWS serverless computing. 
 🌱 I’m learning to make serverless applications using AWS amplify (Fullstack framework with ReactJS bundled with Amazon serverless technologies)
 
