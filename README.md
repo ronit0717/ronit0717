@@ -3,7 +3,7 @@
 I am a full stack web developer from India.
 
 🔭 I’m currently working on Java 8, ReactJS, NodeJS, GraphQL and AWS serverless computing. 
-🌱 Exploring rapid scalable application development using AWS amplify (Fullstack framework with ReactJS bundled with Amazon serverless technologies)
+🌱 Exploring rapid scalable application development using AWS amplify (Fullstack framework with ReactJS bundled with Amazon serverless technologies)🚀
 
 <!--
 **ronit0717/ronit0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
