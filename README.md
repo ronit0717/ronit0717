@@ -2,7 +2,7 @@
 
 I am a software engineer from India 🚀
 
-🔭 I’m currently working on Java 8, ReactJS, NodeJS, GraphQL and AWS serverless computing. 
+🔭 I’m currently working on Spring Boot (Java 8), ReactJS, NodeJS, GraphQL and AWS serverless computing. 
 🌱 Exploring rapid scalable application development using AWS amplify (Fullstack framework with ReactJS bundled with Amazon serverless technologies)
 
 <!--
