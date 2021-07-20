@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-My name is Ronit Chattopadhyay, I am a software engineer from India 🚀
+My name is Ronit Chattopadhyay, I am a software engineer from Bengaluru, India 🚀
 
 - 🔭 I’m currently working on Spring Boot (Java 8), ReactJS, NodeJS, GraphQL and AWS serverless computing. 
 - 🌱 I have around 5 years of experience building web based applications in E-Commerce and finance industry.
