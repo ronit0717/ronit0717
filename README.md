@@ -5,7 +5,8 @@ My name is Ronit Chattopadhyay, I am a software engineer from India 🚀
 - 🔭 I’m currently working on Spring Boot (Java 8), ReactJS, NodeJS, GraphQL and AWS serverless computing. 
 - 🌱 I have around 5 years of experience building web based applications in E-Commerce and finance industry.
 - ⚡ I focus on SMART approach (Simple, Maintainable, Adaptable, Reusable, Testable) to code and build software.
-- 📫 How to reach me: [Twitter](https://twitter.com/ronit0717), [LinkedIn](https://www.linkedin.com/in/ronitc/)
+- 💬 How to reach me: [Twitter](https://twitter.com/ronit0717), [LinkedIn](https://www.linkedin.com/in/ronitc/)
+- 📫 [My Resume](https://drive.google.com/file/d/16fFPlZTiWaHyAqb1BK_PbMFRZCNmeNB-/view?usp=sharing)
 
 <!--
 **ronit0717/ronit0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
